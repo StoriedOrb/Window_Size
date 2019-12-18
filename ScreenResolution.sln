@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenResolution", "ScreenResolution\ScreenResolution.csproj", "{F85E6D38-5E99-49A6-A5E9-68E7E7E9E9B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85E6D38-5E99-49A6-A5E9-68E7E7E9E9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85E6D38-5E99-49A6-A5E9-68E7E7E9E9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85E6D38-5E99-49A6-A5E9-68E7E7E9E9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85E6D38-5E99-49A6-A5E9-68E7E7E9E9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A5BF10-9999-40A8-B4C1-B45570FFF074}
+	EndGlobalSection
+EndGlobal
